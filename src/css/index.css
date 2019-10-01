@@ -22,7 +22,7 @@ h1 {
 }
 
 carton.tachado {
-  color: red;
+  color: green;
   text-decoration: line-through;
 }
 
